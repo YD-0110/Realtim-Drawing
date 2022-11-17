@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    box-shadow: 5px 5px 5px greenyellow;
+    margin: 0px;
+    border-radius: 40px;
+}
+
+.note{
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.copy_right_footer{
+    background-color: rgb(142, 38, 71);
+    line-height: 3;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    border-radius: 30px;
+
+}
+
+canvas{
+    border: red 7px solid;
+    border-radius: 15px;
+    box-shadow: 8px 8px 8px grey;
+}
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
